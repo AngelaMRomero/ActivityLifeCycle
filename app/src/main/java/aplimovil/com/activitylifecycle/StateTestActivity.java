@@ -1,4 +1,8 @@
 /**
+ *
+ * Applications development for mobile devices
+ * -------------------------------------------
+ *
  * The StateTestActivity program implements a simply activity without
  * GUI that prints in console the current status according to activity
  * lifecycle events.
@@ -10,6 +14,7 @@
  * licensed under the Apache License, Version 2.0 (the "License"):
  *
  * http://www.apache.org/licenses/LICENSE-2.0
+ *
  *
  */
 
